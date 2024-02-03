@@ -1,8 +1,8 @@
 
 export const avatarAppConfig = {
-    cogSvcRegion : "westus2",
-    cogSvcSubKey : "YOUR_KEY",
-    voiceName : "en-US-JennyNeural",
+    cogSvcRegion : "westeurope",
+    cogSvcSubKey : "6e3ab8aeb75f41f1bf6aedb431c8baa7",
+    voiceName : "bn-BD-NabanitaNeural",
     avatarCharacter : "lisa",
     avatarStyle : "casual-sitting",
     avatarBackgroundColor : "#FFFFFFFF",
