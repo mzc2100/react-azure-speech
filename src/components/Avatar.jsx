@@ -130,7 +130,8 @@ export const Avatar = () => {
 
     return(
         <div className="container myAvatarContainer">
-            <p className="myAvatarDemoText">Azure Avatar Demo</p>
+            <p className="myAvatarDemoText">বাংলা AI পাঠিকা</p>
+            <p> Connect বাটনে চাপ দিয়ে অপেক্ষা করুন। এরপর বক্সে বাংলা লিখে Play বাটনে চাপ দিলে পাঠিকা পড়া শুরু করবে.. </p>
             <div className="container myAvatarVideoRootDiv d-flex justify-content-around">
                 <div  className="myAvatarVideo">
                     <div id="myAvatarVideo" className="myVideoDiv">
